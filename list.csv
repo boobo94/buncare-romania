@@ -958,7 +958,7 @@ Nr.;County;Locality;Address (str, nr.);Latitude;Longitude
 959;BV;Făgăraș;SC Nitroporos SRL - str. Combinatului nr. 1;45,821153;24,967361
 960;BV;Făgăraș;Casa Maria - Complex Servicii Făgăraş, str. Combinatului nr. 8;45,824804;24,963804
 961;BV;Săcele;str. Piaţa Libertăţii nr. 24;45,617992;25,693812
-962;BV;Săcele;Liceul Tehnologic "Victor Jinga" - Aleea Episcop Popeea nr. 20;45,615995;25,724302
+962;BV;Săcele;Liceul Tehnologic Victor Jinga - Aleea Episcop Popeea nr. 20;45,615995;25,724302
 963;BV;Săcele;SC Electroprecizia SA - str. Parcului nr. 12;45,614696;25,724505
 964;BV;Săcele;SC Electroprecizia SA - str. Parcului nr. 12;45,615173;25,72538
 965;BV;Ghimbav;SC IAR SA - str.Aeroportului nr. 1;45,693206;25,532385
@@ -3112,7 +3112,7 @@ Nr.;County;Locality;Address (str, nr.);Latitude;Longitude
 3112;PH;Mun. Câmpina;Bloc de locuit B2, str. Tudor Vladimirescu, nr.24;45,1275;25,742638
 3113;PH;Mun. Câmpina;B-dul Carol I , nr. 31 B.C.R.;45,12411;25,734488
 3114;PH;Mun. Câmpina;Str. Nicolae Bălcescu nr.ș 46, S.C. IRA S.A.;45,115442;25,74512
-3115;PH;Mun. Câmpina;Fundatia "SPERANTA COPIILOR" Str. Pacii f.n.;45,127621;25,724222
+3115;PH;Mun. Câmpina;Fundatia SPERANTA COPIILOR Str. Pacii f.n.;45,127621;25,724222
 3116;PH;Mun. Câmpina;Str. Progresului nr. 2 S.C. CONFIND;45,12596;25,747045
 3117;PH;Mun. Câmpina;Bloc de locuit, str. Milcovului, nr.14, bl.18C;45,128167;25,740222
 3118;PH;Mun. Câmpina;Str. Oborului nr. 6 S.C. FLORICON SALUB;45,123881;25,752429
@@ -3451,7 +3451,7 @@ Nr.;County;Locality;Address (str, nr.);Latitude;Longitude
 3451;BIF;Sector 1;BD. EXPOZITIEI IF S.C. BOGART OFFICES S.R.L.;44,474553;26,067985
 3452;BIF;Sector 1;BD. EXPOZITIEI IF S.C. BOGART OFFICES S.R.L.;44,474487;26,067911
 3453;BIF;Sector 1;STR.VASILE ALECSANDRI/CONSTANTIN NIEL 4-11 S.C. ALECSANDRI ESTATES S.R.L.;44,453081;26,094774
-3454;BIF;Sector 1;B-DUL FICUSULUI 20-26 COLEGIUL AGRICOL "VICESLAV HARNAJ";44,490616;26,085571
+3454;BIF;Sector 1;B-DUL FICUSULUI 20-26 COLEGIUL AGRICOL VICESLAV HARNAJ;44,490616;26,085571
 3455;BIF;Sector 1;Str. ZĂGAZULUI 7 S.C. BAHTCO INVEST S.R.L.;44,477467;26,094102
 3456;BIF;Sector 1;CALEA DOROBANŢI 99 CHERCHEŞ ION LIVIU;44,453448;26,098333
 3457;BIF;Sector 1;ŞOS. BUCUREŞTI - PLOIEŞTI 172-174 S.C. ACARTA CONSTRUCT S.R.L.corp A;44,51614;26,080774
@@ -4450,7 +4450,7 @@ PROPERTY INVEST ROMÂNIA - S.R.L. Cladire PODIUM;44,446374;26,08076
 4446;BIF;Sector 2;B-dul Mareşal Averescu 8-10 Institutul National de Cercetare -;;
 4447;BIF;Sector 2;;44,421009;26,102395
 4448;BIF;Sector 3;Dezvoltare in Informatica;;
-4449;BIF;Sector 3;B-dul Ficusului 20-26 Colegiul Agricol "Viceslav Harnaj";44,490591;26,085799
+4449;BIF;Sector 3;B-dul Ficusului 20-26 Colegiul Agricol Viceslav Harnaj;44,490591;26,085799
 4450;BIF;Sector 3;Str. Balotului 42 Cresa;44,468073;26,152845
 4451;BIF;Sector 3;Str. Lăptari 23 Scoala Generala nr. 30;44,463468;26,128281
 4452;BIF;Sector 3;Str. Tunari 48/52 Scoala General nr. 24;44,451174;26,106663

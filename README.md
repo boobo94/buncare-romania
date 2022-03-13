@@ -2,7 +2,7 @@
 
 Acest repository contine lista completa a buncarelor antiatomice din Romania.
 
-Sursa: [ISU Romania](https://www.igsu.ro/Resources/Documente_Generale/Situatia_adaposturilor_de_protectie_civila.pdf)
+Sursa: [IGSU Romania](https://www.igsu.ro/Resources/Documente_Generale/Situatia_adaposturilor_de_protectie_civila.pdf)
 
 ## Structura
 
